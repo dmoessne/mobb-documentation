@@ -81,6 +81,11 @@
 * [Deploying Astronomer to OpenShift](./docs/aro/astronomer/)
 * [Deploying 3scale API Management to ROSA/OSD](./docs/app-services/3scale)
 
+## Data Science on Jupyter Notebook on OpenShift
+* [Prerequistes and Concepts](./docs/jup/Prereq-concepts.md)
+* [Build minimal notebook](./docs/jup/BuildNotebook.md)
+* [JupyterHub notebook with GPU](./docs/jup/OpenDataHub-GPU.md)
+
 ## Operations - DevOps/GitOps
 
 * [Demonstrating GitOps - ArgoCD](./docs/demos/gitops/)
