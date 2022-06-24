@@ -82,7 +82,7 @@
 * [Deploying 3scale API Management to ROSA/OSD](./docs/app-services/3scale)
 
 ## Data Science on Jupyter Notebook on OpenShift
-* [Prerequistes and Concepts](./docs/jup/Prereq-concepts.md)
+* [Prerequistes and Concepts](./docs/jup/Prereq-concept.md)
 * [Build minimal notebook](./docs/jup/BuildNotebook.md)
 * [JupyterHub notebook with GPU](./docs/jup/OpenDataHub-GPU.md)
 
